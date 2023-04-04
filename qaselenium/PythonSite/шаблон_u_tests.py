@@ -6,7 +6,7 @@ import time
 ##
 class TestMainPage(unittest.TestCase):
 
-    def setUp(self):#перед началом каждого теста
+    def setUp(self):#перед  началом каждого теста
         pass #заглушка
 
     def test_case(self):
